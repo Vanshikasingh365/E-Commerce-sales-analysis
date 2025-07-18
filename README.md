@@ -17,10 +17,5 @@ Effects of discounts on profitability
 
 Delays in shipping by mode and geography
 
-Tools & Technologies Used
-Python (Pandas, Plotly)
 
-Jupyter Notebook
-
-Superstore Dataset (CSV format)
 
